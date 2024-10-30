@@ -1,0 +1,8 @@
+- name: Bieren
+  items: 
+    - Duvel
+    - Duvel 666
+- name: Wijnen
+  items: 
+    - Rode wijn
+    - Witte wijn
