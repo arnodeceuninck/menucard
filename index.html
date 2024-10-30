@@ -1,0 +1,68 @@
+---
+layout: default
+title: "Arno"
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Menu</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f8f8f8;
+      color: #333;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+    }
+    .menu-card {
+      max-width: 600px;
+      background: #fff;
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+      padding: 20px;
+    }
+    h1 {
+      text-align: center;
+      font-size: 2.5em;
+      color: #d35400;
+    }
+    h2 {
+      font-size: 1.5em;
+      color: #34495e;
+      border-bottom: 2px solid #d35400;
+      padding-bottom: 8px;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    ul li {
+      padding: 6px 0;
+      font-size: 1.1em;
+      color: #7f8c8d;
+    }
+  </style>
+</head>
+<body>
+  <div class="menu-card">
+    <h1>🍴 Menu</h1>
+
+    {% for item in site.data.menu %}
+      <h2>{{ item.name }}</h2>
+      <ul>
+        {% for subitem in item.items %}
+          <li>• {{ subitem }}</li>
+        {% endfor %}
+      </ul>
+    {% endfor %}
+
+  </div>
+</body>
+</html>

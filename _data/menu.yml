@@ -1,8 +1,67 @@
 - name: Bieren
-  items: 
-    - Duvel
+  items:
     - Duvel 666
+    - Duvel
+    - Kasteel rouge
+    - Hera
+    - Gouden Carolus (verschillende soorten)
+    - Tripel d'Anvers
+    - Cherry Chouffe
+    - Cara rouge
+    - SchMak
+
+- name: Andere alcohol
+  items:
+    - Strongbow gold apple
+    - Somersby Apple
+    - Brute de peche
+    - Porto
+
 - name: Wijnen
-  items: 
-    - Rode wijn
-    - Witte wijn
+  items:
+    - Campo Viejo
+    - Netjes wijn
+    - Fantini
+    - En Vena
+    - Muraille
+
+- name: Alcoholvrij
+  items:
+    - Ananassap
+    - Ginger beer
+    - Appelsiensap
+    - Cranberry sap
+    - Bruiswater
+    - Water (van de kraan)
+    - Melk
+    - Tonic
+    - Kidibull (aardbei/appel)
+    - Cola
+    - Citron (everyday ice tea)
+    - Chocomelk
+    - Tomatensap
+    - Druivensap (met bruis)
+    - Fanta
+
+- name: Sterke dranken
+  items:
+    - Fireball
+    - Safari
+    - Pink gin
+    - Amaretto
+    - Bourbon
+    - Witte rum
+    - Appeljenever
+    - Meloen jenever
+    - Orange dink (zellfde merk als meloenvodka)
+    - Gin
+    - Cactusjenever
+    - Campari
+    - Vodka
+    - Kersenjenever
+    - Zure appel jenever
+    - Vanille vodka
+    - Stroh
+    - Trippel sec
+    - Aperol
+    - 43
