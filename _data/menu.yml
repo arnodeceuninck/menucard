@@ -1,3 +1,28 @@
+- name: Vruchtensappen
+  items:
+    - Ananassap
+    - Appelsiensap
+    - Cranberrysap
+    - Tomatensap
+    - Druivensap (met bruis)
+
+- name: Frisdranken
+  items:
+    - Cola
+    - Fanta
+    - Citron (everyday ice tea)
+    - Kidibull (aardbei/appel)
+
+- name: Overige alcoholvrije dranken
+  items:
+    - Bruiswater
+    - Water (van de kraan)
+    - Melk
+    - Chocomelk
+    - Tonic
+    - Thee
+    - Ginger beer
+
 - name: Bieren
   items:
     - Duvel 666
@@ -6,16 +31,13 @@
     - Hera
     - Gouden Carolus (verschillende soorten)
     - Tripel d'Anvers
-    - Cherry Chouffe
     - Cara rouge
     - SchMak
 
-- name: Andere alcohol
+- name: Ciders en lichte dranken
   items:
-    - Strongbow gold apple
     - Somersby Apple
-    - Brute de peche
-    - Porto
+    - Brute de Peche
 
 - name: Wijnen
   items:
@@ -25,43 +47,39 @@
     - En Vena
     - Muraille
 
-- name: Alcoholvrij
+- name: Likeuren en zoete dranken
   items:
-    - Ananassap
-    - Ginger beer
-    - Appelsiensap
-    - Cranberry sap
-    - Bruiswater
-    - Water (van de kraan)
-    - Melk
-    - Tonic
-    - Kidibull (aardbei/appel)
-    - Cola
-    - Citron (everyday ice tea)
-    - Chocomelk
-    - Tomatensap
-    - Druivensap (met bruis)
-    - Fanta
-
-- name: Sterke dranken
-  items:
+    - Amaretto
     - Fireball
     - Safari
-    - Pink gin
-    - Amaretto
-    - Bourbon
-    - Witte rum
-    - Appeljenever
-    - Meloen jenever
-    - Orange dink (zellfde merk als meloenvodka)
-    - Gin
-    - Cactusjenever
+    - 43
+    - Stroh
     - Campari
-    - Vodka
+    - Aperol
+    - Malibu
+
+- name: Gins
+  items:
+    - Gin
+    - Pink gin
+
+- name: Jenevers
+  items:
+    - Appeljenever
+    - Meloenjenever
     - Kersenjenever
     - Zure appel jenever
+    - Cactusjenever
+
+- name: Vodka's
+  items:
+    - Vodka
     - Vanille vodka
-    - Stroh
+    - Orange dink (zelfde merk als meloenvodka)
+
+- name: Overige sterke dranken
+  items:
+    - Bourbon
+    - Witte rum
     - Trippel sec
-    - Aperol
-    - 43
+
