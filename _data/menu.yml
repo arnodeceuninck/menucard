@@ -1,37 +1,24 @@
-- name: Vruchtensappen
+- name: Rode Wijnen
   items:
-    - Appelsap
-    - Appelsiensap
-    - Cranberrysap
-    - Tomatensap
-    - Druivensap (met bruis)
-
-- name: Frisdranken
-  items:
-    - Cola
-    - Fanta
-    - Citron (everyday ice tea)
-    - Kidibull (aardbei/appel)
-
-- name: Overige alcoholvrije dranken
-  items:
-    - Bruiswater
-    - Water (van de kraan)
-    - Melk
-    - Chocomelk
-    - Tonic
-    - Thee
-    - Ginger beer
+    - CHarmes de Taureau (St-Emillion)
+    - Campo Viejo (Rioja)
+    - Netjes wijn (Los Condes)
+    - Fantini
+    - Muraille
+    - Pauly-La Martinette (Bordeaux)
+    - Luna (Artisans Partisans)
 
 - name: Bieren
   items:
-    - Duvel 666
+    - Bolleke
+    - Tripel d'Anvers
+    - Cherry Chouffe
     - Duvel
+    - Gouden Carolus (classic/tripel/hopsinjoor)
     - Kasteel rouge
     - Hera
-    - Gouden Carolus (verschillende soorten)
-    - Tripel d'Anvers
     - Cara rouge
+    - Cara 0.0
     - SchMak
 
 - name: Ciders en lichte dranken
@@ -39,24 +26,31 @@
     - Somersby Apple
     - Brute de Peche
 
-- name: Wijnen
+- name: Cocktails (mix gerust zelf andere combinaties)
   items:
-    - Campo Viejo
-    - Netjes wijn
-    - Fantini
-    - En Vena
-    - Muraille
+    - Appeljenever-Ice tea (ook lekker met een beetje Elixir d'Anvers)
+    - Gin tonic
+    - Pink gin tonic
+    - Moscow Mule
+    - Malibu-Ananassap
+    - Chocomelk-Baileys
+    - Rum Cola
+    - Amaretto-Ice tea
+    - Mojito (Monin munt siroop-Bruiswater-Limoensap)
 
 - name: Likeuren en zoete dranken
   items:
+    - Elixir d'Anvers
+    - Malibu
     - Amaretto
     - Fireball
     - Safari
-    - 43
     - Stroh
     - Campari
     - Aperol
-    - Malibu
+    - Sharidan's Koffielikeur
+    - Baileys
+    - 43
 
 - name: Gins
   items:
@@ -70,6 +64,7 @@
     - Kersenjenever
     - Zure appel jenever
     - Cactusjenever
+    - Galettenjenever
 
 - name: Vodka's
   items:
@@ -82,4 +77,46 @@
     - Bourbon
     - Witte rum
     - Trippel sec
+    - Porto
 
+- name: Vruchtensappen
+  items:
+    - Ananassap
+    - Appelsiensap
+    - Cranberrysap
+    - Tomatensap
+    - Druivensap (met bruis)
+    - Appelsap
+
+- name: Frisdranken
+  items:
+    - Coca-Cola
+    - Fanta
+    - Citron (everyday ice tea)
+    - Kidibull (appel)
+
+- name: Thee
+  items:
+    - Rooibos
+    - Camille
+    - Zwarte
+    - Marokaanse munt
+    - Framboos-granaatappel (los)
+    - English Breakfast
+
+- name: Siropen
+  items:
+    - Monin Mojito Munt
+    - Grenadine
+    - Vlierbloesem
+    - Gembersiroop
+    - Passievruchten
+
+- name: Overige alcoholvrije dranken
+  items:
+    - Bruiswater
+    - Water (van de kraan)
+    - Melk
+    - Chocomelk
+    - Tonic
+    - Ginger beer (fever tree of spicy)
