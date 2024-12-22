@@ -1,6 +1,7 @@
 - name: Rode Wijnen
   items:
-    - CHarmes de Taureau (St-Emillion)
+    - En vena
+    - Charmes de Taureau (St-Emillion)
     - Campo Viejo (Rioja)
     - Netjes wijn (Los Condes)
     - Fantini
@@ -15,16 +16,18 @@
 
 - name: Bieren
   items:
-    - Bolleke
-    - Tripel d'Anvers
-    - Cherry Chouffe
-    - Duvel
-    - Gouden Carolus (classic/tripel/hopsinjoor)
-    - Kasteel rouge
-    - Hera
+    - Bolleke*
+    - Tripel d'Anvers*
+    - Cherry Chouffe*
+    - Duvel*
+    - Tripel Kamreliet*
+    - Gouden Carolus (classic/tripel/hopsinjoor)*
+    - Kasteel rouge*
+    - Hera*
     - Cara rouge
     - Cara 0.0
     - SchMak
+    - Duvel 666*
 
 - name: Ciders en lichte dranken
   items:
@@ -96,7 +99,7 @@
 - name: Frisdranken
   items:
     - Coca-Cola
-    - Fanta
+    - Fanta*
     - Citron (everyday ice tea)
     - Kidibull (appel)
 
