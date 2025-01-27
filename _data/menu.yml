@@ -1,3 +1,45 @@
+- name: Vruchtensappen
+  items:
+    - Ananassap
+    - Appelsiensap
+    - Cranberrysap
+    - Tomatensap
+    - Druivensap (met bruis)
+    - Appelsap
+
+- name: Frisdranken
+  items:
+    - Coca-Cola
+    - Fanta*
+    - Citron (everyday ice tea)
+    - Kidibull (appel)
+
+- name: Thee
+  items:
+    - Rooibos
+    - Camille
+    - Zwarte
+    - Marokaanse munt
+    - Framboos-granaatappel (los)
+    - English Breakfast
+
+- name: Siropen
+  items:
+    - Monin Mojito Munt
+    - Grenadine
+    - Vlierbloesem
+    - Gembersiroop
+    - Passievruchten
+
+- name: Overige alcoholvrije dranken
+  items:
+    - Bruiswater
+    - Water (van de kraan)
+    - Melk
+    - Chocomelk
+    - Tonic
+    - Ginger beer (fever tree of spicy)
+
 - name: Rode Wijnen
   items:
     - En vena
@@ -86,45 +128,3 @@
     - Witte rum
     - Trippel sec
     - Porto
-
-- name: Vruchtensappen
-  items:
-    - Ananassap
-    - Appelsiensap
-    - Cranberrysap
-    - Tomatensap
-    - Druivensap (met bruis)
-    - Appelsap
-
-- name: Frisdranken
-  items:
-    - Coca-Cola
-    - Fanta*
-    - Citron (everyday ice tea)
-    - Kidibull (appel)
-
-- name: Thee
-  items:
-    - Rooibos
-    - Camille
-    - Zwarte
-    - Marokaanse munt
-    - Framboos-granaatappel (los)
-    - English Breakfast
-
-- name: Siropen
-  items:
-    - Monin Mojito Munt
-    - Grenadine
-    - Vlierbloesem
-    - Gembersiroop
-    - Passievruchten
-
-- name: Overige alcoholvrije dranken
-  items:
-    - Bruiswater
-    - Water (van de kraan)
-    - Melk
-    - Chocomelk
-    - Tonic
-    - Ginger beer (fever tree of spicy)
