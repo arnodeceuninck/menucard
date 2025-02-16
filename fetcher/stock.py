@@ -61,6 +61,10 @@ def organize_stock_by_category(stock_data, product_groups):
         product_name = item['product']['name']
         product_group_id = item['product'].get('product_group_id')
         
+        amount = item['amount']
+        if amount == 0:
+            continue
+
         # Get category name or default to "Unknown"
         category = product_groups.get(product_group_id, "Unknown")
 
