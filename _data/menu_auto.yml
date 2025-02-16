@@ -1,0 +1,87 @@
+- items:
+  - Tonic (boni)
+  - Fanta
+  - Lemon (boni)
+  - Pepsi Zero Sugar
+  - Gingerbeer
+  - Kidibull Appel
+  - Kidibull Aardbei
+  - Coca-Cola
+  - 'Citron Limonade Everyday '
+  - Spicy Ginger Beer
+  - Jus de raisin petillant
+  name: Frisdranken
+- items:
+  - 'Rietsuiker siroop '
+  - Elderflower Siroop
+  - 'Muntsiroop '
+  - grenadine fruitsiroop met appel (0% toegevoegde suiker)
+  name: Siropen
+- items:
+  - Appelsiensap
+  - Cranberry sap
+  - Tomatensap
+  name: Vruchtensappen
+- items:
+  - Cecemel
+  - Vitamin Well Awake
+  - Bruiswater (everyday)
+  - VIT-HIT Apple + Elderflower Flavour
+  - Melk Halfvol
+  - Rodeo
+  name: Overige alcoholvrije dranken
+- items:
+  - Cherry Chouffe
+  - Bolleke
+  - 'Cara rouge '
+  - 'Tripel Karmeliet '
+  - 'Estaminet '
+  - 'Tripel d''Anvers '
+  - SchMak
+  name: Bieren
+- items:
+  - 'Champagne '
+  - Cava
+  - Brute de Framboise
+  - Champagne Moutardier
+  - Brut de Peche
+  name: Ciders en lichte dranken
+- items:
+  - Campo Viejo Rioja
+  - Fantini Puglia Rosso
+  - Chateau Pauly-La Martinette - Bordeaux
+  - Luna
+  - Muraille
+  - Casa Major
+  name: Rode Wijnen
+- items:
+  - 'Cactusjenever '
+  - 'Zure appel jenever '
+  - Meloenjenever
+  name: Jenevers
+- items:
+  - Appelsienvodka
+  - 'Vodka '
+  name: Vodka's
+- items:
+  - Gin
+  - Pink gin
+  name: Gins
+- items:
+  - 'Sheridan''s Koffielikeur '
+  - 'Fireball '
+  - Baileys
+  - Likeur 43
+  - Aperol
+  name: Likeuren en zoete dranken
+- items:
+  - Stroh 80
+  - Whiskey
+  - Spiced Rum
+  - Colheita porto
+  name: Overige sterke dranken
+- items:
+  - Chips Lays Zout en Peper
+  - Chips Lays Sensations Thai Sweet Chili
+  - Doritos Sweet Chilli Pepper
+  name: Chips
