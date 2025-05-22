@@ -12,6 +12,8 @@
 - items:
   - Violetten siroop
   - Mojitosiroop
+  - Elderflower siroop
+  - Pasievruchten siroop
   name: Siropen
 - items:
   - Perensap
@@ -25,32 +27,23 @@
   - Melk Halfvol
   name: Overige alcoholvrije dranken
 - items:
-  - Cherry Chouffe ❄️
-  - Bolleke ❄️
+  - Cherry Chouffe
+  - Bolleke
   - 'Cara rouge '
-  - Tripel Karmeliet  ❄️
+  - Tripel Karmeliet 
   - 'Estaminet '
   - 'Tripel d''Anvers '
-  - SchMak
+  - SchMak?
   name: Bieren
 - items:
-  - 'Champagne '
-  - Cava
-  - Brute de Framboise
-  - Champagne Moutardier
+  - Brut de Framboise
   - Brut de Peche
   name: Ciders en lichte dranken
 - items:
-  - Campo Viejo Rioja
-  - Fantini Puglia Rosso
-  - Chateau Pauly-La Martinette - Bordeaux
-  - Luna
-  - Muraille
-  - Casa Major
-  name: Rode Wijnen
+  - Geen idee, wel een paar
+  name: Wijnen
 - items:
   - 'Cactusjenever '
-  - 'Zure appel jenever '
   - Meloenjenever
   name: Jenevers
 - items:
@@ -62,11 +55,10 @@
   - Pink gin
   name: Gins
 - items:
-  - 'Sheridan''s Koffielikeur '
   - 'Fireball '
   - Baileys
-  - Likeur 43
   - Aperol
+  - Likeur 43
   name: Likeuren en zoete dranken
 - items:
   - Stroh 80
@@ -74,8 +66,3 @@
   - Spiced Rum
   - Colheita porto
   name: Overige sterke dranken
-- items:
-  - Chips Lays Zout en Peper
-  - Chips Lays Sensations Thai Sweet Chili
-  - Doritos Sweet Chilli Pepper
-  name: Chips
