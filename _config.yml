@@ -23,10 +23,10 @@ email: arnodece@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   AJOK staat voor Alle Jongeren Op Kamp en wil deze naam waar maken door vakantiekampen te organiseren met een bijzondere aandacht voor kinderen en jongeren die minder mogelijkheden krijgen om van het bestaande vrijetijdsaanbod te genieten, bijvoorbeeld kansarme jongeren. Ons belangrijkste doel is om ook deze maatschappelijk kwetsbare jongeren een onvergetelijke vakantie te bezorgen, afgestemd op hun leeftijd, mogelijkheden en verwachtingen.
 baseurl: "/menu" # the subpath of your site, e.g. /blog
-url: "https://arnodeceuninck.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "https://arnodeceuninck.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
-
+url: "https://menu.arnodece.com"
 # Build settings
 # theme: minima
 # plugins:
