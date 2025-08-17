@@ -1,68 +1,130 @@
-- items:
-  - Tonic (boni)
-  - Pepsi Zero Sugar
-  - Gingerbeer
-  - Kidibull Appel
-  - Kidibull Aardbei
-  - Coca-Cola
-  - Lemon
-  - Spicy Ginger Beer
-  - Jus de raisin petillant (op eigen risico)
-  name: Frisdranken
-- items:
-  - Violetten siroop
-  - Mojitosiroop
-  - Elderflower siroop
-  - Pasievruchten siroop
-  name: Siropen
-- items:
-  - Perensap
-  - Appelsap
-  - Ananassap
-  - Appel mango sap
-  name: Vruchtensappen
-- items:
-  - Cecemel
-  - Bruiswater (everyday)
-  - Melk Halfvol
-  name: Overige alcoholvrije dranken
-- items:
-  - Cherry Chouffe
-  - Bolleke
-  - 'Cara rouge '
-  - Tripel Karmeliet 
-  - 'Estaminet '
-  - 'Tripel d''Anvers '
-  - SchMak?
-  name: Bieren
-- items:
-  - Brut de Framboise
-  - Brut de Peche
-  name: Ciders en lichte dranken
-- items:
-  - Geen idee, wel een paar
-  name: Wijnen
-- items:
-  - 'Cactusjenever '
-  - Meloenjenever
-  name: Jenevers
-- items:
-  - Appelsienvodka
-  - 'Vodka '
-  name: Vodka's
-- items:
-  - Gin
-  - Pink gin
-  name: Gins
-- items:
-  - 'Fireball '
-  - Baileys
-  - Aperol
-  - Likeur 43
-  name: Likeuren en zoete dranken
-- items:
-  - Stroh 80
-  - Whiskey
-  - Spiced Rum
-  - Colheita porto
-  name: Overige sterke dranken
+- name: Vruchtensappen
+  items:
+    - Appelsiensap*
+    - Appelsap*
+    - Multivruchtensap*
+    - Ananassap*
+    - Tomatensap
+
+- name: Frisdranken
+  items:
+    - Cola*
+    - Ice Tea Peach*
+    - Gingerbeer
+    - Fever-Tree Tonic
+    - Schweppes Tonic
+    - Boni Tonic
+    - Boni Lemon Love
+    - Kidibull
+    - Oasis
+    - Sprite
+    - Mogu Mogu Mango
+    - Mogu Mogu Lychee
+    - Schweppes Agrum
+    - Canada Dry
+
+- name: Thee
+  items:
+    - Rooibos
+    - Camille
+    - Zwarte
+    - Marokaanse munt
+    - Framboos-granaatappel (los)
+    - English Breakfast
+
+- name: Siropen
+  items:
+    - Monin Passievrucht
+
+- name: Overige alcoholvrije dranken
+  items:
+    - Water
+    - Bruiswater
+    - Melk
+
+- name: Rode Wijnen
+  items:
+    - Rioja
+    - Fantini Puglia Rosso
+    - Muraille
+
+- name: Overige wijnen
+  items:
+    - Themis (Rose, Chateau Paquette)
+    - Forum Julii (Wit, Chateau Paquette)
+
+- name: Bieren
+  items:
+    - Bolleke*
+    - Tripel d'Anvers*
+    - Cherry Chouffe*
+    - Tripel Kamreliet*
+    - Perlembourg strong 7.8*
+    - Cristal 0.0*
+    - Cara Rouge
+
+- name: Ciders en lichte dranken
+  items:
+    - Strongbow Red Beries*
+    - Rodenbach Fruitage*
+    - Somersby Apple*
+    - Brute de Framboise
+
+- name: Cocktails (mix gerust zelf andere combinaties)
+  items:
+    #- Appeljenever-Ice tea (ook lekker met een beetje Elixir d'Anvers)
+    - Gin tonic
+    - Pink gin tonic
+    - Moscow Mule
+    - Malibu-Ananassap
+    #- Chocomelk-Baileys
+    - Rum Cola
+    - Amaretto-Ice tea
+    #- Mojito (Monin munt siroop-Bruiswater-Limoensap)
+
+- name: Likeuren en zoete dranken
+  items:
+    - Malibu
+    - Pisang
+    - Amaretto
+    - Safari
+    - Sheridan's Koffielikeur
+
+- name: Gins
+  items:
+    - Gin
+    - Pink gin
+
+- name: Jenevers
+  items:
+    - Bols Lychee
+    - Bols Parfait Amour
+    - Bols Creme de Cassis
+    - Bols Strawberry
+    - Vanille jenever
+    - Meloenjenever
+    - Bols Graanjenever
+    
+    #- Appeljenever
+    #- Meloenjenever
+    #- Kersenjenever
+    #- Zure appel jenever
+    #- Cactusjenever
+    #- Galettenjenever
+
+- name: Vodka's
+  items:
+    - Smirnoff Vodka
+   # - Vanille vodka
+    - Orange dink (zelfde merk als meloenvodka)
+
+- name: Overige sterke dranken
+  items:
+    - Bourbon Whiskey
+    - Witte rum Bacardi Blancad
+    - Spiced Rum
+    - Stroh 80
+    - Trippel sec
+    - Porto
+    - Triple d'Anvers
+    - Campari
