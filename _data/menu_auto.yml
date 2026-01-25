@@ -1,27 +1,31 @@
+- name: Recommendations
+  items:
+    - Warme Chocomelk
+    - Gingerbeer*
+    - Cola*
+    - Bolleke*
+    - Cherry Chouffe*
+
 - name: Vruchtensappen
   items:
     - Appelsiensap*
-    - Appelsap*
     - Multivruchtensap*
     - Ananassap*
+    - Appelsap
     - Tomatensap
 
 - name: Frisdranken
   items:
     - Cola*
     - Ice Tea Peach*
-    - Gingerbeer
-    - Fever-Tree Tonic
-    - Schweppes Tonic
-    - Boni Tonic
+    - Gingerbeer*
+    - Tonic
     - Boni Lemon Love
-    - Kidibull
-    - Oasis
     - Sprite
     - Mogu Mogu Mango
-    - Mogu Mogu Lychee
     - Schweppes Agrum
     - Canada Dry
+    - Fanta
 
 - name: Thee
   items:
@@ -35,18 +39,20 @@
 - name: Siropen
   items:
     - Monin Passievrucht
+    - AH Grenadine
+    - Tesseire Violet
+    - Teisseire Mojito
 
 - name: Overige alcoholvrije dranken
   items:
     - Water
     - Bruiswater
     - Melk
+    - Sportdrank
 
 - name: Rode Wijnen
   items:
-    - Rioja
-    - Fantini Puglia Rosso
-    - Muraille
+    - Verschillende
 
 - name: Overige wijnen
   items:
@@ -61,13 +67,13 @@
     - Tripel Kamreliet*
     - Perlembourg strong 7.8*
     - Cristal 0.0*
+    - Flandrien 0.0*
     - Cara Rouge
+    - Kasteel rouge*
 
 - name: Ciders en lichte dranken
   items:
     - Strongbow Red Beries*
-    - Rodenbach Fruitage*
-    - Somersby Apple*
     - Brute de Framboise
 
 - name: Cocktails (mix gerust zelf andere combinaties)
