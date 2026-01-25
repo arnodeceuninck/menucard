@@ -1,18 +1,31 @@
+- name: Recommendations
+  items:
+    - Warme Chocomelk
+    - Gingerbeer*
+    - Cola*
+    - Bolleke*
+    - Cherry Chouffe*
+
 - name: Vruchtensappen
   items:
-    - Ananassap
-    - Appelsiensap
-    - Cranberrysap
-    - Tomatensap
-    - Druivensap (met bruis)
+    - Appelsiensap*
+    - Multivruchtensap*
+    - Ananassap*
     - Appelsap
+    - Tomatensap
 
 - name: Frisdranken
   items:
-    - Coca-Cola
-    - Fanta*
-    - Citron (everyday ice tea)
-    - Kidibull (appel)
+    - Cola*
+    - Ice Tea Peach*
+    - Gingerbeer*
+    - Tonic
+    - Boni Lemon Love
+    - Sprite
+    - Mogu Mogu Mango
+    - Schweppes Agrum
+    - Canada Dry
+    - Fanta
 
 - name: Thee
   items:
@@ -25,31 +38,21 @@
 
 - name: Siropen
   items:
-    - Monin Mojito Munt
-    - Grenadine
-    - Vlierbloesem
-    - Gembersiroop
-    - Passievruchten
+    - Monin Passievrucht
+    - AH Grenadine
+    - Tesseire Violet
+    - Teisseire Mojito
 
 - name: Overige alcoholvrije dranken
   items:
+    - Water
     - Bruiswater
-    - Water (van de kraan)
     - Melk
-    - Chocomelk
-    - Tonic
-    - Ginger beer (fever tree of spicy)
+    - Sportdrank
 
 - name: Rode Wijnen
   items:
-    - En vena
-    - Charmes de Taureau (St-Emillion)
-    - Campo Viejo (Rioja)
-    - Netjes wijn (Los Condes)
-    - Fantini
-    - Muraille
-    - Pauly-La Martinette (Bordeaux)
-    - Luna (Artisans Partisans)
+    - Verschillende
 
 - name: Overige wijnen
   items:
@@ -61,46 +64,37 @@
     - Bolleke*
     - Tripel d'Anvers*
     - Cherry Chouffe*
-    - Duvel*
     - Tripel Kamreliet*
-    - Gouden Carolus (classic/tripel/hopsinjoor)*
+    - Perlembourg strong 7.8*
+    - Cristal 0.0*
+    - Flandrien 0.0*
+    - Cara Rouge
     - Kasteel rouge*
-    - Hera*
-    - Cara rouge
-    - Cara 0.0
-    - SchMak
-    - Duvel 666*
 
 - name: Ciders en lichte dranken
   items:
-    - Somersby Apple
-    - Brute de Peche
+    - Strongbow Red Beries*
+    - Brute de Framboise
 
 - name: Cocktails (mix gerust zelf andere combinaties)
   items:
-    - Appeljenever-Ice tea (ook lekker met een beetje Elixir d'Anvers)
+    #- Appeljenever-Ice tea (ook lekker met een beetje Elixir d'Anvers)
     - Gin tonic
     - Pink gin tonic
     - Moscow Mule
     - Malibu-Ananassap
-    - Chocomelk-Baileys
+    #- Chocomelk-Baileys
     - Rum Cola
     - Amaretto-Ice tea
-    - Mojito (Monin munt siroop-Bruiswater-Limoensap)
+    #- Mojito (Monin munt siroop-Bruiswater-Limoensap)
 
 - name: Likeuren en zoete dranken
   items:
-    - Elixir d'Anvers
     - Malibu
+    - Pisang
     - Amaretto
-    - Fireball
     - Safari
-    - Stroh
-    - Campari
-    - Aperol
-    - Sharidan's Koffielikeur
-    - Baileys
-    - 43
+    - Sheridan's Koffielikeur
 
 - name: Gins
   items:
@@ -109,22 +103,34 @@
 
 - name: Jenevers
   items:
-    - Appeljenever
+    - Bols Lychee
+    - Bols Parfait Amour
+    - Bols Creme de Cassis
+    - Bols Strawberry
+    - Vanille jenever
     - Meloenjenever
-    - Kersenjenever
-    - Zure appel jenever
-    - Cactusjenever
-    - Galettenjenever
+    - Bols Graanjenever
+    
+    #- Appeljenever
+    #- Meloenjenever
+    #- Kersenjenever
+    #- Zure appel jenever
+    #- Cactusjenever
+    #- Galettenjenever
 
 - name: Vodka's
   items:
-    - Vodka
-    - Vanille vodka
+    - Smirnoff Vodka
+   # - Vanille vodka
     - Orange dink (zelfde merk als meloenvodka)
 
 - name: Overige sterke dranken
   items:
-    - Bourbon
-    - Witte rum
+    - Bourbon Whiskey
+    - Witte rum Bacardi Blancad
+    - Spiced Rum
+    - Stroh 80
     - Trippel sec
     - Porto
+    - Triple d'Anvers
+    - Campari
