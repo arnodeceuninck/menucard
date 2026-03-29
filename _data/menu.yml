@@ -1,80 +1,57 @@
 - name: Recommendations
   items:
-    - Warme Chocomelk
     - Gingerbeer*
-    - Cola*
-    - Bolleke*
+    - Arizona
     - Cherry Chouffe*
-
-- name: Vruchtensappen
-  items:
-    - Appelsiensap*
-    - Multivruchtensap*
-    - Ananassap*
-    - Appelsap
-    - Tomatensap
+    - Strongbow*
 
 - name: Frisdranken
   items:
-    - Cola*
-    - Ice Tea Peach*
-    - Gingerbeer*
+    - Cola
+    - Ice Tea Peach
+    - Ice Tea Green
+    - Gingerbeer
     - Tonic
-    - Boni Lemon Love
     - Sprite
-    - Mogu Mogu Mango
     - Schweppes Agrum
     - Canada Dry
     - Fanta
 
-- name: Thee
+- name: Vruchtensappen
   items:
-    - Rooibos
-    - Camille
-    - Zwarte
-    - Marokaanse munt
-    - Framboos-granaatappel (los)
-    - English Breakfast
+    - Multivruchtensap*
+    - Ananassap*
 
 - name: Siropen
   items:
-    - Monin Passievrucht
-    - AH Grenadine
-    - Tesseire Violet
-    - Teisseire Mojito
+    - Monin Elderflower
 
 - name: Overige alcoholvrije dranken
   items:
     - Water
     - Bruiswater
     - Melk
-    - Sportdrank
+    - Thee (english breakfast)
 
-- name: Rode Wijnen
+- name: Wijnen
   items:
-    - Verschillende
-
-- name: Overige wijnen
-  items:
-    - Themis (Rose, Chateau Paquette)
-    - Forum Julii (Wit, Chateau Paquette)
+    - Verschillende rode
+    - Themis (Wit, Chateau Paquette)
 
 - name: Bieren
   items:
     - Bolleke*
-    - Tripel d'Anvers*
     - Cherry Chouffe*
     - Tripel Kamreliet*
-    - Perlembourg strong 7.8*
+
+- name: Alcoholvrije bieren
+  items:
     - Cristal 0.0*
     - Flandrien 0.0*
-    - Cara Rouge
-    - Kasteel rouge*
 
 - name: Ciders en lichte dranken
   items:
     - Strongbow Red Beries*
-    - Brute de Framboise
 
 - name: Cocktails (mix gerust zelf andere combinaties)
   items:
@@ -93,8 +70,6 @@
     - Malibu
     - Pisang
     - Amaretto
-    - Safari
-    - Sheridan's Koffielikeur
 
 - name: Gins
   items:
