@@ -1,111 +1,138 @@
-- name: Recommendations
-  items:
-    - Gingerbeer*
-    - Arizona
-    - Cherry Chouffe*
-    - Strongbow*
-
-- name: Frisdranken
-  items:
-    - Cola
-    - Ice Tea Peach
-    - Ice Tea Green
-    - Gingerbeer
-    - Tonic
-    - Sprite
-    - Schweppes Agrum
-    - Canada Dry
-    - Fanta
-
-- name: Vruchtensappen
-  items:
-    - Multivruchtensap*
-    - Ananassap*
-
-- name: Siropen
-  items:
-    - Monin Elderflower
-
-- name: Overige alcoholvrije dranken
-  items:
-    - Water
-    - Bruiswater
-    - Melk
-    - Thee (english breakfast)
-
-- name: Wijnen
-  items:
-    - Verschillende rode
-    - Themis (Wit, Chateau Paquette)
-
 - name: Bieren
-  items:
-    - Bolleke*
-    - Cherry Chouffe*
-    - Tripel Kamreliet*
+  items: 
+     - Cherry Chouffe*
+     - Bolleke*
+     - Tripel d'Anvers*
+     - Tripel Westmalle*
+     - Tripel Karmeliet*
+     - Bierebeer*
+     - Kasteel Rouge*
 
 - name: Alcoholvrije bieren
   items:
-    - Cristal 0.0*
-    - Flandrien 0.0*
+     - Troubadour Zestra 0,3%*
+     - Pico Bello 0,3%*
 
-- name: Ciders en lichte dranken
-  items:
-    - Strongbow Red Beries*
+- name: Frisdranken
+  items: 
+     - Ice Tea Green*
+     - Gingerbeer*
+     - Coca-cola
+     - Schweppes Agrum
+     - Ice Tea Peach (boni)
 
-- name: Cocktails (mix gerust zelf andere combinaties)
+- name: Overige
   items:
-    #- Appeljenever-Ice tea (ook lekker met een beetje Elixir d'Anvers)
-    - Gin tonic
-    - Pink gin tonic
-    - Moscow Mule
-    - Malibu-Ananassap
-    #- Chocomelk-Baileys
-    - Rum Cola
-    - Amaretto-Ice tea
-    #- Mojito (Monin munt siroop-Bruiswater-Limoensap)
+     - Strongbow
+     - Veel te veel sterke dranken, mix gerust
+# - name: Recommendations
+#   items:
+#     - Gingerbeer*
+#     - Arizona
+#     - Cherry Chouffe*
+#     - Strongbow*
 
-- name: Likeuren en zoete dranken
-  items:
-    - Malibu
-    - Pisang
-    - Amaretto
+# - name: Frisdranken
+#   items:
+#     - Cola
+#     - Ice Tea Peach
+#     - Ice Tea Green
+#     - Gingerbeer
+#     - Tonic
+#     - Sprite
+#     - Schweppes Agrum
+#     - Canada Dry
+#     - Fanta
 
-- name: Gins
-  items:
-    - Gin
-    - Pink gin
+# - name: Vruchtensappen
+#   items:
+#     - Multivruchtensap*
+#     - Ananassap*
 
-- name: Jenevers
-  items:
-    - Bols Lychee
-    - Bols Parfait Amour
-    - Bols Creme de Cassis
-    - Bols Strawberry
-    - Vanille jenever
-    - Meloenjenever
-    - Bols Graanjenever
+# - name: Siropen
+#   items:
+#     - Monin Elderflower
+
+# - name: Overige alcoholvrije dranken
+#   items:
+#     - Water
+#     - Bruiswater
+#     - Melk
+#     - Thee (english breakfast)
+
+# - name: Wijnen
+#   items:
+#     - Verschillende rode
+#     - Themis (Wit, Chateau Paquette)
+
+# - name: Bieren
+#   items:
+#     - Bolleke*
+#     - Cherry Chouffe*
+#     - Tripel Kamreliet*
+
+# - name: Alcoholvrije bieren
+#   items:
+#     - Cristal 0.0*
+#     - Flandrien 0.0*
+
+# - name: Ciders en lichte dranken
+#   items:
+#     - Strongbow Red Beries*
+
+# - name: Cocktails (mix gerust zelf andere combinaties)
+#   items:
+#     #- Appeljenever-Ice tea (ook lekker met een beetje Elixir d'Anvers)
+#     - Gin tonic
+#     - Pink gin tonic
+#     - Moscow Mule
+#     - Malibu-Ananassap
+#     #- Chocomelk-Baileys
+#     - Rum Cola
+#     - Amaretto-Ice tea
+#     #- Mojito (Monin munt siroop-Bruiswater-Limoensap)
+
+# - name: Likeuren en zoete dranken
+#   items:
+#     - Malibu
+#     - Pisang
+#     - Amaretto
+
+# - name: Gins
+#   items:
+#     - Gin
+#     - Pink gin
+
+# - name: Jenevers
+#   items:
+#     - Bols Lychee
+#     - Bols Parfait Amour
+#     - Bols Creme de Cassis
+#     - Bols Strawberry
+#     - Vanille jenever
+#     - Meloenjenever
+#     - Bols Graanjenever
     
-    #- Appeljenever
-    #- Meloenjenever
-    #- Kersenjenever
-    #- Zure appel jenever
-    #- Cactusjenever
-    #- Galettenjenever
+#     #- Appeljenever
+#     #- Meloenjenever
+#     #- Kersenjenever
+#     #- Zure appel jenever
+#     #- Cactusjenever
+#     #- Galettenjenever
 
-- name: Vodka's
-  items:
-    - Smirnoff Vodka
-   # - Vanille vodka
-    - Orange dink (zelfde merk als meloenvodka)
+# - name: Vodka's
+#   items:
+#     - Smirnoff Vodka
+#    # - Vanille vodka
+#     - Orange dink (zelfde merk als meloenvodka)
 
-- name: Overige sterke dranken
-  items:
-    - Bourbon Whiskey
-    - Witte rum Bacardi Blancad
-    - Spiced Rum
-    - Stroh 80
-    - Trippel sec
-    - Porto
-    - Triple d'Anvers
-    - Campari
+# - name: Overige sterke dranken
+#   items:
+#     - Bourbon Whiskey
+#     - Witte rum Bacardi Blancad
+#     - Spiced Rum
+#     - Stroh 80
+#     - Trippel sec
+#     - Porto
+#     - Triple d'Anvers
+#     - Campari
